@@ -273,14 +273,6 @@ Available attributes in math module:
 - Store operation history.
 - Add more utility modules.
 
-  ## 🎥 Project Explanation Video
-
-Watch the complete project explanation, including its features, working, and demonstration:
-
-🔗 **Project Video:** 
-
-
-
 ## 👨‍💻 Author
 
 **Harsh Prajapati**
